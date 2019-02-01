@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B76030FB-4B22-4A0B-97EC-D33595C052E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DeadBird</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1424EC494F5A2EA22E0E0C38C1BF00D8854E181</key>
+		<string>https://hgfx.dlinkddns.com/git/DeadBird.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DeadBird.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1424EC494F5A2EA22E0E0C38C1BF00D8854E181</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://hgfx.dlinkddns.com/git/DeadBird.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1424EC494F5A2EA22E0E0C38C1BF00D8854E181</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1424EC494F5A2EA22E0E0C38C1BF00D8854E181</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeadBird</string>
+		</dict>
+	</array>
+</dict>
+</plist>
